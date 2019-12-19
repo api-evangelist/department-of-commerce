@@ -1,0 +1,73 @@
+{
+    "name": "Department of Commerce",
+    "description": "Commerce.gov is the official website of the United States Department of Commerce and Secretary of Commerce.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/11178-department-of-commerce.jpg",
+    "tags": [
+        "api provider",
+        "data json",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/department-of-commerce\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Department of Commerce",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/11178-department-of-commerce.jpg",
+            "humanURL": "https:\/\/www.commerce.gov\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/department-of-commerce-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/department-of-commerce-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/u-s-department-of-commerce"
+        },
+        {
+            "type": "Data",
+            "url": "https:\/\/data.commerce.gov\/"
+        },
+        {
+            "type": "Email",
+            "url": "publicaffairs@doc.gov"
+        },
+        {
+            "type": "Email",
+            "url": "webmaster@doc.gov"
+        },
+        {
+            "type": "Email",
+            "url": "eugene.cottilli@bis.doc.gov"
+        },
+        {
+            "type": "Email",
+            "url": "rcisneros@doc.gov"
+        },
+        {
+            "type": "Email",
+            "url": "syusko@ntia.doc.gov"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/CommerceGov"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.commerce.gov\/"
+        }
+    ]
+}
